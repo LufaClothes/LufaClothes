@@ -1,0 +1,94 @@
+.vermelho{
+     border: 10px solid red;
+     width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 10px;
+}
+.vquarto{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+
+}
+.vsegundo{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.vterceiro{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.vquinto{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.semcor1{
+    border: none;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -9px;
+    border-radius: 5px;
+}
+.vsetimo{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.voitavo{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.vnono{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.vdez{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+.vonze{
+    border: 10px solid #008B00;
+    width: 0;
+    height: 0;
+    margin: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+}
+
+table{
+    margin: 28px;
+   position: relative;
+}

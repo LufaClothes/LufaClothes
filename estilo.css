@@ -1,0 +1,94 @@
+body{
+	background: mistyrose;
+}
+
+ .menu ul{
+ 	background-color: black;/ cor de fundo
+ 	margin: 1000px;
+ 	padding: 20px 250px;
+ 	width: 1090px;
+ 	list-style: none;
+ 	font-size: 27px;/tamanho
+ 	text-shadow: none;
+   position: absolute;
+ }
+ .menu ul li{
+ 	display: inline;
+ }
+ .menu ul li a{
+    color: white;
+    text-decoration: none;
+ }
+.menu ul li a:hover{
+   color: grey;
+}
+.logo {
+   margin: -60px;
+   display: inline-block;
+   max-width: 1000px;
+   max-height: 250px;
+   width: 200px 200px;
+   height: auto;
+   position: relative;
+}
+
+.bemvindo{
+   background-color: none;/ cor de fundo
+   margin: 5000px;
+   padding: 175px 20px;
+   width: 1529px;
+   list-style: none;
+   font-size: 25px;/tamanho
+   text-shadow: none;
+   position: absolute;
+}
+
+
+.produtos{
+   padding: 30px 30px;
+   width: 250px;
+   display: inline-block;
+   
+}
+
+.entrada {
+   padding: -10px 20px;
+
+ }
+.minhahist{
+   padding: 0px 10px;
+   text-decoration: none;
+   } 
+
+.titulhist {
+   text-align: center;
+   color: #8B658B;
+   font-size: 80px;
+   text-decoration: none;
+}
+
+.gif{
+   padding: center;
+   width: 300px;
+}
+figure {
+
+    display: inline-block;
+    
+    margin: 20px; /* adjust as needed */
+ }
+figure img {
+    vertical-align: top;
+    }
+
+figure figcaption {
+    margin: -1px;
+    text-align: center;
+    max-width: 300px
+}
+
+.medidas{
+    margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
